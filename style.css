@@ -50,3 +50,12 @@ footer {
 	list-style-type: none;
 	padding-top: 10px;
 }
+
+.History {
+	text-align: left;
+	font-size: 1.75rem;
+}
+
+#historyimg {
+	width: 100%;
+}
