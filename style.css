@@ -1,0 +1,61 @@
+/* Main Css */
+
+
+/* #####################
+  Template by Paul Rushe
+  ######################
+*/
+
+
+/* Scales down logos used */
+#logo {
+	width: 5%;
+	margin-right: 20:
+}
+#logo2 {
+	width: 40%;
+	float: right;
+}
+/* Sets style for active item in navigation */
+.navbar a:hover {
+	text-decoration: underline;
+}
+.active {
+	text-decoration: underline;
+}
+/* footer styling */
+footer {
+	background-color: #222;
+	color: white;
+	margin-top: 60px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+
+/* #####################
+  End of Template Css
+  ######################
+*/
+
+
+.heading h1,h2 {
+	text-align: center;
+}
+
+/* styles list items in "list" class, used for index page*/
+.list li {
+	text-align: center;
+	list-style-position: inside;
+	list-style-type: none;
+	padding-top: 10px;
+}
+
+.History {
+	text-align: left;
+	font-size: 1.75rem;
+}
+
+#historyimg {
+	width: 100%;
+}
